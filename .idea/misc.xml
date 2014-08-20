@@ -72,11 +72,6 @@
     <option indent="4" />
     <option maxerr="50" />
   </component>
-  <component name="JavaScriptLibraryMappings">
-    <file url="PROJECT" libraries="{atmosphere-DefinitelyTyped, bootstrap-DefinitelyTyped, jQuery UI-1.10.2, jQuery-2.0.0, meteor-DefinitelyTyped}" />
-    <includedPredefinedLibrary name="Node.js Globals" />
-    <includedPredefinedLibrary name="WebGL" />
-  </component>
   <component name="JsBowerSettings">
     <exe-path />
     <config-path />
@@ -102,9 +97,6 @@
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="ruby-1.9.3-p545" project-jdk-type="RUBY_SDK">
     <output url="file://$PROJECT_DIR$/out" />
-  </component>
-  <component name="SvnConfiguration">
-    <configuration>C:\Users\Christian\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="masterDetails">
     <states>
