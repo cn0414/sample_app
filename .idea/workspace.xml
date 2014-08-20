@@ -639,17 +639,21 @@
       <changelist id="11d2c258-a759-4aa6-92f1-837aef4adb97" name="Default" comment="" />
       <created>1408502324699</created>
       <updated>1408502324699</updated>
-      <workItem from="1408502327231" duration="8690000" />
+      <workItem from="1408502327231" duration="8705000" />
     </task>
     <task id="LOCAL-00001" summary="test commit to static">
       <created>1408506780358</created>
       <updated>1408506780358</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit changes&#10;">
+      <created>1408511041333</created>
+      <updated>1408511041333</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8690000" />
+    <option name="totallyTimeSpent" value="8705000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -719,7 +723,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="test commit to static" />
-    <option name="LAST_COMMIT_MESSAGE" value="test commit to static" />
+    <MESSAGE value="commit changes&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit changes&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
