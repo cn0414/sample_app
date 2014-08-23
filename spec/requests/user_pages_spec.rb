@@ -32,7 +32,7 @@ describe "User pages" do
       describe "after submission" do
         before { click_button submit }
 
-        it { should have_title('Submit') }
+        it { should have_title('Sign up') }
         it { should have_content('error') }
       end
     end
